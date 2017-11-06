@@ -1,0 +1,14 @@
+{
+  "name": "electron-tutorials",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/slater6/electron-tutorials.git",
+  "author": "Bryan <slaters@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.7.9"
+  },
+  "scripts":{
+    "start": "electron index.js"
+  }
+}
